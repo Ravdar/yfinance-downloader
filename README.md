@@ -52,4 +52,4 @@ If you want to add a new feature or fix a bug by yourself, follow these steps:
 
 # Credits
 Plus and minus icons used in the app are from [flaticon.com](https://www.flaticon.com/).  
-YahooFinance logos are from YahooFinance(https://finance.yahoo.com/) 
+YahooFinance logos are from [YahooFinance](https://finance.yahoo.com/) 
