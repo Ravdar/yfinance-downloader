@@ -1,8 +1,9 @@
-# ![Finance_icon_0919_250x252](https://user-images.githubusercontent.com/97836782/235300416-a824ac10-518d-425d-9381-2c78595268b7.png) YFinance downloader
+
+# <img src="https://user-images.githubusercontent.com/97836782/236618799-0301c964-239f-4e23-a6f7-0e2bcf7cfbb1.png" width="40" height="40"> YFinance downloader
 This is a simple GUI application that allows users to download OHLC (Open, High, Low, Close) data from Yahoo Finance using the yfinance Python library. The application provides a quick and intuitive way to download the data and save it in a selected destination folder. It detects whether a date already exists in a given location and, if so, combines it, so you can collect data from a long periods of time.
 
 
-<img src="https://user-images.githubusercontent.com/97836782/235300809-de1b6b42-575d-4076-b26e-ac0e5603d523.png" width="538" height="566">)
+<img src="https://user-images.githubusercontent.com/97836782/236618708-abc45d2d-bf94-48a6-8e3f-26b444f0f7db.png" width="538" height="566">
 
 # Features
 * User-friendly interface for downloading OHLC data from Yahoo Finance.
@@ -51,5 +52,4 @@ If you want to add a new feature or fix a bug by yourself, follow these steps:
 4. Submit a pull request.
 
 # Credits
-Plus and minus icons used in the app are from [flaticon.com](https://www.flaticon.com/).  
-YahooFinance logos are from [YahooFinance](https://finance.yahoo.com/) 
+Plus and minus icons used in the app are from [flaticon.com](https://www.flaticon.com/).
