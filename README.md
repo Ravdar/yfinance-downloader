@@ -35,7 +35,7 @@ pip install -r requirements.txt
 9. Wait for the download to complete. The status label will show the progress.
 10. Once the download is finished, a message box will display the number of files downloaded and the data will be ready for use.
 
-# Used libraires
+# Used libraries
 * pandas
 * yfinance
 * customtkinter
